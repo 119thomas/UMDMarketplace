@@ -5,10 +5,16 @@ The three primary tasks that this prototype supports are creating a new listing,
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## test
+## Homepage
 <img src="https://github.com/119thomas/UMDMarketplace/blob/master/screenshots/homepage.png" width=50% height=50%>
+
+## Listing an item
 <img src="https://github.com/119thomas/UMDMarketplace/blob/master/screenshots/listItem.png" width=50% height=50%>
+
+## Mail
 <img src="https://github.com/119thomas/UMDMarketplace/blob/master/screenshots/mail.png" width=50% height=50%>
+
+## Search Results
 <img src="https://github.com/119thomas/UMDMarketplace/blob/master/screenshots/search.png" width=50% height=50%>
 
 
