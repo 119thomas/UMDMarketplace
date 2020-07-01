@@ -1,0 +1,47 @@
+.my-container {
+    display: flex;
+}
+
+/*.productImg {
+    margin-top: 10%;
+    float: right;
+    flex-grow: 1;
+}*/
+
+.productInfo {
+    margin-top: 1%;
+    float: left;
+    flex-grow: 1;
+}
+
+#listItem {
+    margin-left: 30%;
+}
+
+.sub-header {
+    position: flex;
+    text-align: center;
+}
+
+.productImg {
+    height: auto;
+    width: auto;
+    width: 50%;
+  }
+  
+  /* Make the image responsive */
+  .productImg img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Style the button and place it in the middle of the container/image */
+  .productImg .addImgBtn {
+    height: auto;
+    position: flex;
+    top: 50%;
+    left: 50%;
+    background-color: #555;
+    color: white;
+    
+  }

@@ -1,0 +1,13 @@
+.container {
+  /* width: 40% !important; */
+  margin-bottom: 30px;
+  /* min-height: 72vh; */
+}
+
+.text-center {
+  margin-top: 10vh;
+}
+
+.btn {
+  margin-bottom: 10px;
+}
